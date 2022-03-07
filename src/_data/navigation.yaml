@@ -6,5 +6,7 @@ items:
     url: "#"
   - text: Menu Three
     url: "#"
+  - text: Menu Four
+    url: "#"
   - text: Blog
     url: "/blog"
